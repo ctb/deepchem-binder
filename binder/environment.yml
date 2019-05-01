@@ -8,3 +8,4 @@ channels:
   - defaults
 dependencies:
   - python=2.7
+  - deepchem=2.1.0
