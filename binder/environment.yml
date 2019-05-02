@@ -1,11 +1,9 @@
 channels:
   - deepchem
   - rdkit
-  - omnia
-  - r
-  - bioconda
   - conda-forge
+  - omnia
+  - bioconda
   - defaults
 dependencies:
-  - python=2.7
   - deepchem=2.1.0
